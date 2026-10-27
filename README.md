@@ -1,7 +1,23 @@
-# Hi, I'm Wenchao Jia
+<h1 align="center">Hi, I'm Wenchao Jia</h1>
 
-I am a master's student at East China Normal University. My research interests include embodied AI, vision-language-action models, large language models, and reinforcement learning.
+<p align="center"><strong>M.S. Student at East China Normal University</strong></p>
 
-## [Visit my homepage](https://chitang49.github.io/)
+<p align="center">
+  <a href="https://chitang49.github.io/"><img src="https://img.shields.io/badge/Homepage-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage"></a>
+  <a href="mailto:j.wenchao@qq.com"><img src="https://img.shields.io/badge/Email-475569?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-You can also find my learning notes in [Embodied AI](https://github.com/ChiTang49/Embodied-AI) and [Agent Learning](https://github.com/ChiTang49/Agent-Learning).
+## About Me
+
+I am a master's student in Computer Technology at East China Normal University. My work focuses on self-evolving post-training, outcome-value-guided planning, and agentic code repair.
+
+## Research Interests
+
+- **Embodied AI & Vision-Language-Action Models**
+- **Large Language Models & Reinforcement Learning**
+- **Self-Evolving Post-Training & Agentic Code Repair**
+
+## Learning & Notes
+
+- **[Embodied AI](https://github.com/ChiTang49/Embodied-AI)** — Course notes, MuJoCo experiments, learning resources, and reflections.
+- **[Agent Learning](https://github.com/ChiTang49/Agent-Learning)** — Notes on AI agents, agentic reinforcement learning, and LLM fundamentals.
